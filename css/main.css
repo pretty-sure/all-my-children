@@ -9,3 +9,14 @@ h3 {
   font-family: cursive;
   color: blue;
 }
+.nav {
+  background-color: pink;
+  width: 60%;
+  margin: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
