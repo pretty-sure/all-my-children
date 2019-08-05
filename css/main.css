@@ -264,3 +264,18 @@ textarea {
   }
 }
 
+#title {
+  background-image: url("../img/IMG_2448.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-size: 42px;
+  font-family: sans-serif;
+  border: 2px solid black;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a.title {
+  color: pink;
+}
